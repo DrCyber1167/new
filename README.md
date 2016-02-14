@@ -2,7 +2,7 @@
 
 **جدید ترین پلاگینا و یا کاربردی ترینشون که به دست ما میرسه رو اینجا در اختیار عموم میزاریم**
 
-* **برخی از لیست پلاگینا عبارتند از : ** 
+* * The list of the Plugisn are : * 
 
 ### Shows the Time of seperate parts of world
 ### Information About Members and your self 
