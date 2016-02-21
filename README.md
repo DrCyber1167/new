@@ -1,4 +1,4 @@
-#[برنامه نویسی پیشرفته ](telegram.me/Pro_programing)
+#[برنامه نویسی پیشرفته ](http://telegram.me/Pro_PRograming)
 
 **جدید ترین پلاگینا و یا کاربردی ترینشون که به دست ما میرسه رو اینجا در اختیار عموم میزاریم**
 
@@ -23,3 +23,5 @@ your plugins name is : Test.lua so we add like this in the list of plugins in co
 
 and then save it and restart the bot 
 ```
+
+# By : [Creeds Team](https://github.com/Creedsteam/newplugins)
